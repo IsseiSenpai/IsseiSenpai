@@ -5,6 +5,7 @@ Soy un desarrollador web fullstack con experiencia desarrollador de apps moviles
 
 ## Mis habilidades
 - Lenguajes de programación: JavaScrip, TypeScript, HTML, CSS, C#, Python, Java
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 - Frameworks y librerías: React, Vue, Angular, Node.js, Express, Django, Flask, SCSS, Bootstrap
 - Bases de datos: MongoDB, PostgreSQL, MySQL, Firebase
 - Herramientas y tecnologías: Adobe ilustrador, Adobe Photoshop, Adobe After Effect, Unity Hub, Git, GitHub.
