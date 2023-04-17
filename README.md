@@ -38,9 +38,9 @@ Soy un estidiante universitario que busca ser un **desarrollador web** fullstack
 - Git
 - GitHub
 
-## *Mis proyectos destacados*
-- [Cafe Laurent](): Esta es una cafeteria relacionada al mundo del anime.
-- [DelCastellano](): Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes 
+## Mis proyectos destacados
+- *[Cafe Laurent]()*: Esta es una cafeteria relacionada al mundo del anime.
+- *[DelCastellano]()*: Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes 
 
 ## Cómo contactarme
 Si estás interesado en trabajar juntos o simplemente quieres saludar, puedes encontrarme en: 
