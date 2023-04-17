@@ -4,30 +4,9 @@
 ## Sobre mí
 Soy un estidiante universitario que busca ser un **desarrollador web** fullstack con experiencia en **desarrollo de apps moviles** en beneficio de la educacion con habilidades en **diseño grafico, arte digital y edicion de video**. Me apasiona el desarrollo web y móvil, y disfruto creando soluciones innovadoras que mejoren la vida de las personas. Siempre estoy buscando nuevos desafíos para seguir aprendiendo y mejorando mis habilidades.
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-###Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-####Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#####Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-
-##Headers (Underline)
-
 ## Mis habilidades
 
-###* Lenguajes de programación: *
+### *Lenguajes de programación:*
 - JavaScrip
 - TypeScript
 - HTML
@@ -59,7 +38,7 @@ Soy un estidiante universitario que busca ser un **desarrollador web** fullstack
 - Git
 - GitHub
 
-##* Mis proyectos destacados*
+## *Mis proyectos destacados*
 - [Cafe Laurent](): Esta es una cafeteria relacionada al mundo del anime.
 - [DelCastellano](): Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes 
 
@@ -74,7 +53,8 @@ Si estás interesado en trabajar juntos o simplemente quieres saludar, puedes en
 [![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 
-# ¡Gracias por visitar mi perfil!
+
+# ✨¡Gracias por visitar mi perfil!✨
 
 
 <!--
