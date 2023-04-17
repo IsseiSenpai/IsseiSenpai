@@ -2,7 +2,11 @@
 ![](https://thumbs.dreamstime.com/b/banner-de-programaci%C3%B3n-web-concepto-tecnolog%C3%ADa-conexiones-personas-negocios-internet-medios-mixtos-219287770.jpg)
 
 ## Sobre mí
-Soy un estidiante universitario que busca ser un **desarrollador web** fullstack con experiencia en **desarrollo de apps moviles** en beneficio de la educacion con habilidades en **diseño grafico, arte digital y edicion de video**. Me apasiona el desarrollo web y móvil, y disfruto creando soluciones innovadoras que mejoren la vida de las personas. Siempre estoy buscando nuevos desafíos para seguir aprendiendo y mejorando mis habilidades.
+¡Hola! ¡Bienvenidos a mi perfil de GitHub! Me llamo Keneth, y soy un apasionado **desarrollador web** con un enfoque en crear soluciones elegantes y eficientes para resolver los problemas de los usuarios. También soy un **técnico especializado en ciberseguridad** en el ámbito empresarial, y tengo experiencia en el **desarrollo de aplicaciones móviles** para mejorar la educación. Además, cuento con habilidades en **diseño gráfico**, **arte digital** y **edición de video**, lo que me permite dar un toque creativo y único a cada proyecto en el que trabajo.
+
+Me encanta el desarrollo web y móvil, y me siento motivado por la idea de crear soluciones innovadoras que mejoren la vida de las personas. Siempre estoy en busca de nuevos desafíos que me permitan seguir aprendiendo y mejorando mis habilidades. Cuando no estoy desarrollando, me gusta dedicar mi tiempo libre a aprender más sobre diseño gráfico y arte digital, y también me gusta estar al día con las últimas tendencias y tecnologías del sector.
+
+Si estás buscando alguien que esté siempre buscando nuevos desafíos y oportunidades para aprender, ¡estás en el lugar correcto! Me encanta mejorar mis habilidades y trabajar en soluciones innovadoras que mejoren la vida de las personas.
 
 ## Mis habilidades
 
