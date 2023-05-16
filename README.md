@@ -45,7 +45,7 @@ Si estás buscando alguien que esté siempre buscando nuevos desafíos y oportun
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Mis proyectos destacados
-- *[Cafe Laurent]()*: Esta es una cafeteria relacionada al mundo del anime.
+- *[Cafe Laurent](https://isseisenpai.github.io/CafeLaurent/)*: Esta es una cafeteria relacionada al mundo del anime.
 - *[DelCastellano]()*: Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes 
 
 ## Cómo contactarme
