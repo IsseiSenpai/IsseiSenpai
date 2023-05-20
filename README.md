@@ -14,97 +14,64 @@ Si estás buscando alguien que esté siempre buscando nuevos desafíos y oportun
 ## Mis habilidades
 
 ### *Lenguajes de programación:*
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 
 ### *Frameworks y librerías:*
-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### *Bases de datos:*
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 *Herramientas y tecnologías:*
-- ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	
-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Mis proyectos destacados
+<table>
+  <thead>
+    <th>Cafe Lauren</th>
+    <th>Del Castellano</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://isseisenpai.github.io/CafeLaurent/"><img src=""></a></td>
+      <td><a href=""><img src=""></a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+      <td>Esta es una cafeteria relacionada al mundo del anime</td>
+      <td>Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes</td>
+  </tfoot>
+</table> 
+
 - *[Cafe Laurent](https://isseisenpai.github.io/CafeLaurent/)*: Esta es una cafeteria relacionada al mundo del anime.
 - *[DelCastellano]()*: Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes 
 
+## Certification
 <table style="width:100%">
 <tr>
   <td>
-    <a href="https://youtu.be/Kp4Mvapo5kc">
-      <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-    </a>
+     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Certificado-Curso-Profesional-Desarrollo-Web.jpg" style="max-width: 100%;">
   </td>
   <td>
-    <a href="https://youtu.be/-pWSQYpkkjk">
-      <img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
-    </a>
+     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/html.png">
    </td>
   <td>
-    <a href="https://youtu.be/3GymExBkKjE">
-      <img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-    </a>
+     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/css.png">
   </td>
  </tr>
   
 <tr>
   <td>
-    <a href="https://youtu.be/SavaU66KxQY">
-      <img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-    </a>
+     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Imagen1.png">
   </td>
   <td>
-    <a href="https://youtu.be/GoAxsdg0Xbs">
-      <img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
-    </a>
+     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Certificado%20-%20Curso%20Profesional%20de%20Git_page-0001.jpg">
   </td>
   <td>
-    <a href="https://youtu.be/pFyAu4R684s">
-      <img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
-    </a>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://youtu.be/BQaxPwZWboA">
-      <img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-    </a>
-  </td>
-  <td>
-    <a href="https://youtu.be/Wfh0FYR0z6I">
-      <img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
-    </a>
-  </td>
-  <td>
-    <a href="https://youtu.be/ebQphhLpJG0">
-      <img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-    </a>
+     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Certificado-Curso-para-iniciar-a-dibujar-con-CSS.jpg">
   </td>
 </tr>
 </table>
-
-## Cómo contactarme
-Si estás interesado en trabajar juntos o simplemente quieres saludar, puedes encontrarme en: 
-[LinkedIn](), [Faceboock](), [Correo](),  [Twitter](), [Pagina personal]().
 
 # ✨¡Gracias por visitar mi perfil!✨
