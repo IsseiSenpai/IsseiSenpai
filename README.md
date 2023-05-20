@@ -34,7 +34,7 @@ Si estás buscando alguien que esté siempre buscando nuevos desafíos y oportun
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://isseisenpai.github.io/CafeLaurent/"><img src=""></a></td>
+      <td><a href="https://isseisenpai.github.io/CafeLaurent/"><img src="https://github.com/IsseiSenpai/CafeLaurent/raw/main/img/Local.png"></a></td>
       <td><a href=""><img src=""></a></td>
     </tr>
   </tbody>
