@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Keneth Ernesto Macis Flores
-![]([https://thumbs.dreamstime.com/b/banner-de-programaci%C3%B3n-web-concepto-tecnolog%C3%ADa-conexiones-personas-negocios-internet-medios-mixtos-219287770.jpg](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Banner-personal.png?raw=true))
+![](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Banner-personal.png)
 
 ## Sobre mí
 ¡Hola! ¡Bienvenidos a mi perfil de GitHub! Me llamo Keneth, y soy un apasionado **desarrollador web** con un enfoque en crear soluciones elegantes y eficientes para resolver los problemas de los usuarios. También soy un **técnico especializado en ciberseguridad** en el ámbito empresarial, y tengo experiencia en el **desarrollo de aplicaciones móviles** para mejorar la educación. Además, cuento con habilidades en **diseño gráfico**, **arte digital** y **edición de video**, lo que me permite dar un toque creativo y único a cada proyecto en el que trabajo.
