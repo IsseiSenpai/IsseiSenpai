@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Keneth Ernesto Macis Flores
 ![](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Banner-personal.png)
-
+                
 ## Sobre mí
 ¡Hola! ¡Bienvenidos a mi perfil de GitHub! Me llamo Keneth, y soy un apasionado **desarrollador web** con un enfoque en crear soluciones elegantes y eficientes para resolver los problemas de los usuarios. También soy un **técnico especializado en ciberseguridad** en el ámbito empresarial, y tengo experiencia en el **desarrollo de aplicaciones móviles** para mejorar la educación. Además, cuento con habilidades en **diseño gráfico**, **arte digital** y **edición de video**, lo que me permite dar un toque creativo y único a cada proyecto en el que trabajo.
 
@@ -9,7 +9,8 @@ Me encanta el desarrollo web y móvil, y me siento motivado por la idea de crear
 Si estás buscando alguien que esté siempre buscando nuevos desafíos y oportunidades para aprender, ¡estás en el lugar correcto! Me encanta mejorar mis habilidades y trabajar en soluciones innovadoras que mejoren la vida de las personas.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Keneth_Macis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Keneth_Macis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keneth_Macis) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Keneth_Macis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Keneth_Macis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Keneth_Macis) 
+<sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Keneth_Macis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Keneth_Macis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keneth_Macis) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Keneth_Macis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Keneth_Macis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Keneth_Macis) 
+
 ## Mis habilidades
 
 ### *Lenguajes de programación:*
@@ -45,6 +46,62 @@ Si estás buscando alguien que esté siempre buscando nuevos desafíos y oportun
 ## Mis proyectos destacados
 - *[Cafe Laurent](https://isseisenpai.github.io/CafeLaurent/)*: Esta es una cafeteria relacionada al mundo del anime.
 - *[DelCastellano]()*: Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes 
+
+<table style="width:100%">
+<tr>
+  <td>
+    <a href="https://youtu.be/Kp4Mvapo5kc">
+      <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/-pWSQYpkkjk">
+      <img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+    </a>
+   </td>
+  <td>
+    <a href="https://youtu.be/3GymExBkKjE">
+      <img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+    </a>
+  </td>
+ </tr>
+  
+<tr>
+  <td>
+    <a href="https://youtu.be/SavaU66KxQY">
+      <img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/GoAxsdg0Xbs">
+      <img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/pFyAu4R684s">
+      <img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://youtu.be/BQaxPwZWboA">
+      <img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/Wfh0FYR0z6I">
+      <img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/ebQphhLpJG0">
+      <img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+    </a>
+  </td>
+</tr>
+</table>
 
 ## Cómo contactarme
 Si estás interesado en trabajar juntos o simplemente quieres saludar, puedes encontrarme en: 
