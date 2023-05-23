@@ -8,7 +8,7 @@
 </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Keneth_Macis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Keneth_Macis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keneth_Macis) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Keneth_Macis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Keneth_Macis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Keneth_Macis) 
 
 ## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=IsseiSenpai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Recurso%201.png)
 
 ## Mis habilidades
 
