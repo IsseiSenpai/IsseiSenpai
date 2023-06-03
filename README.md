@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Keneth Ernesto Macis Flores
-![](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Banner-personal.png)
+![](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Logo-personal.png)
                 
 ## Sobre mí
 ¡Hola! Soy Keneth, un apasionado **desarrollador web** con experiencia en **ciberseguridad** y **desarrollo de aplicaciones móviles**. También tengo habilidades en diseño gráfico, arte digital y edición de video. Me encanta crear soluciones innovadoras que mejoren la vida de las personas y siempre estoy buscando nuevos desafíos y oportunidades para aprender y mejorar mis habilidades. Si estás buscando a alguien que esté en constante búsqueda de soluciones creativas, ¡estás en el lugar correcto!
